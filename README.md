@@ -1,7 +1,5 @@
 ## Hamid Mohammadzadeh
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 Confident, articulate and highly driven junior web developer seeking a position as a junior developer. Having recently completed a 12 week intensive course in full stack web development. I am not just looking for a role as junior web developmer as much as I am a place I can fulfill my desire to learn and continue my journey as a programmer.
 
 ## Skills
