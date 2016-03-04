@@ -7,10 +7,37 @@ I am not just looking for a role as web developmer as much as I am a place I can
 found true calling
 - i enjoy what i do, i have had too many menial jobs where i not only did not enjoy myself but also did not feel i was adding any value whatsoever -->
 
-As a person who has finally found my true calling in life (very cliche, I know, but it's true) in programming, I have awoken a passion that I had no idea existed within me. I have had too many menial jobs where I not only did not enjoy what I was doing for a living but also did not feel I was adding any value whatsoever. Now I know what I want. Having completed a bootcamp in coding I have recaptured a feeling I havent had since I was a 12 year old kid walking into a comic book shop for the first time; one of passion, excitement and the overwelming desire to consume absolutely everything I can get my hands on. Having entered this world, I am not just looking for a role as web developmer as much as I am a place I can fulfill my desire to learn and continue my journey as a programmer. PS Batman Rocks.
+As a person who has finally found my calling in life in programming (very cliche, I know, but it's true!), I have found my passion. After too many menial jobs that have had no meaningful impact in the world, I am looking forward to a career adding value. I now know what I want. 
 
+Having just completed a coding bootcamp, I have recaptured a feeling I haven't had since being a 12 year old kid walking into a comic book shop for the first time; one of passion, excitement and the overwhelming desire to learn and absorb absolutely everything I can get my hands on. I am not just looking for a role as web developer: I am looking for a place I can fulfil my desire to learn and continue my journey as a developer. 
+
+P.S. Batman rocks.
 
 ## Skills
+
+### Problem solving
+- Mechanical engineering taught me how to approach problems. I particularly enjoy the mathematical side of engineering - formulas and their derivations, applying them to real world situations.
+
+### Resourcefulness
+- I grew Ethnic Mind from a team of 3 people to 22, taking them from meeting in coffee shops and hotel lobbies to working from an accelerator office space. 
+
+
+## Experience
+
+**Ethnic Mind** (2013 to 2014)    
+*Project Manager*
+- co-founded a local mental health awareness charity
+- day-to-day operations: recruiting volunteers, service users and companies, 
+- liasing between trustees and founders
+- CRB checks
+
+## Education
+
+#### Makers Academy (2015 to 2016)
+- 12 week full-stack developer bootcamp
+
+#### Queen Mary and Westfield College (2008 to 2011)
+- BEng Mechanical Engineering
 
 Skills
 ------
@@ -31,26 +58,5 @@ OOP, SOLID, TDD, AGILE Methodologies
 |Testing|Protractor, Jasmine, RSpec, Capybara|Karma| Chai, Mocha|
 |Other|Version control through Github, Agile methodologies |Heroku deployment| |
 
-## Education
 
 
-#### Queen Mary and Westfield College (2008 to 2011)
-
-- BEng Mechanical Engineering
-- Grade: Not the best in the world
-- I learnt how much I am capable of learning when I have no passion for the topic so I decided to search for something I find more engaging (spoiler alert: I found it)
-
-#### Makers Academy (2015 to 2016)
-
-- Independent learner and problem-solver
-- Software Craftsmanship
-- the most imprtant thing I learnt from Makers Academy is how to think like a programmer and debugging, and that, coupled with my affinity for problem solving, I find most fulfilling (and genuinely enjoyable)
-
-## Experience
-
-**Ethnic Mind** (2013 to 2014)    
-*project manager*
-- began a local mental health awareness charity
-- liased between trustees and founders, hired volunteers for our organisation including CRB checks on all of them. (In retrospect, I genuinely wish I knew about Agile methodologies)   
-**Company Name** (start_date to end_date)   
-*Your job title*  
