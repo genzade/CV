@@ -38,21 +38,19 @@ OOP, SOLID, TDD, AGILE Methodologies
 
 - BEng Mechanical Engineering
 - Grade: Not the best in the world
-- I learnt how much I am capable of learning when I have no passion for the topic so I decided to search for something I find for engaging (spoiler alert: I found it)
+- I learnt how much I am capable of learning when I have no passion for the topic so I decided to search for something I find more engaging (spoiler alert: I found it)
 
 #### Makers Academy (2015 to 2016)
 
-- Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 - the most imprtant thing I learnt from Makers Academy is how to think like a programmer and debugging, and that, coupled with my affinity for problem solving, I find most fulfilling (and genuinely enjoyable)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Ethnic Mind** (2013 to 2014)    
+*project manager*
+- began a local mental health awareness charity
+- liased between trustees and founders, hired volunteers for our organisation including CRB checks on all of them. (In retrospect, I genuinely wish I knew about Agile methodologies)   
 **Company Name** (start_date to end_date)   
 *Your job title*  
