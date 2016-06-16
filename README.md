@@ -16,13 +16,28 @@ P.S. Batman rocks. I know you didn't ask, but it does, and should, go without sa
 - I grew Ethnic Mind from a team of 3 people to managing 22, taking them from meeting in coffee shops and hotel lobbies to working from a startup accelerator office space.
 
 ### Patience
-- A virtue I had to 
-careful, best practices, diligence
+- A virtue I developed through a number of customer service based roles I have taken up over the years. I am adamant that you will not feel my pain until you know what it is like to work as a sales assistant in a kids shoe department during a sale.
 
 ## Experience
-**Step2wo, Selfridges & Co** _(November 2006 to December 2011)_
-- Sales Assistant, children's shoe department
-- valuing customer service over commission and my ability to remain calm in the face of 10 screaming children a day was the reason I had so many repeat customers
+
+**Empire Cinema, LSQ** _(November 2014 to October 2015)_
+- Till duties, put my strong communication skills to the test speaking to customers from all over the world.
+
+**Ethnic Mind** _(April 2013 to September 2014)_
+
+*Co-founder & Project Manager*
+- identified 3 trustees, pitched our vision to them and won their support
+- secured initial funding of £10k from "National Lottery fund" by completing relevant pitch documents and chasing
+- day-to-day operations: recruiting volunteers and setting them up with service users a part of our befriending scheme.
+- we were commissioned by NHS Westminster to research how well the NHS catered to the needs of ethnic minorities. Conducted 15 service user interviews  and personally compiled the report (helped secure extra funding)
+
+**Medical Information for Ethnic Minorities** _(August 2012 to April 2013)_
+- Administration as well as basic day to day operations
+
+**Financial Ombudsmen Service** _(December 2011 to June 2012)_
+- Consulted on PPI cases and complaints as part of a wider team, trained new staff on FOS procedures and IT systems
+- Liaised with consumers, Claims Management Companies and financial firms to obtain information and documentation necessary to convert cases to adjudicators
+- detail oriented, working to deadlines
 
 **RBS Contracting** _(August 2011 to December 2011)_
 - Administration based
@@ -30,31 +45,9 @@ careful, best practices, diligence
 - communicated with the logistics team (Iron Mountain)
 - Enjoyed working in many different branches around the Greater London area, building strong working relationships with branch and regional managers along the way
 
-**Financial Ombudsmen Service** _(December 2011 to June 2012)_
-- Consulted on PPI cases and complaints as part of a wider team, trained new staff on FOS procedures and IT systems
-- Liaised with consumers, Claims Management Companies and financial firms to obtain information and documentation necessary to convert cases to adjudicators
-
-**Medical Information for Ethnic Minorities** _(August 2012 to April 2013)_
-- Administration
-- day to day operations
-
-**Ethnic Mind** _(April 2013 to September 2014)_
-
-*Co-founder & Project Manager*
---- funding, project pitch, how much, how often, how many)
-- identified 3 trustees, pitched our vision to them and won their support
-- secured initial funding of £10k from "National Lottery fund" by completing relevant pitch documents and chasing
-- people management
-- day-to-day operations: recruiting volunteers, service users and companies; book keeping
-- detail oriented, working to deadlines____
-- we were commissioned by "XXX" research how well the NHS catered to the needs of ethnic minorities. conducted 15 service user interviews  and personally compiled the report (helped secure extra funding)
-situation task action result
-
-- co-founded a local mental health awareness charity
-- liasing between trustees and founders
-- CRB checks
-
-**Empire Cinema, LSQ** _(November 2014 to October 2015)_
+**Step2wo, Selfridges & Co** _(November 2006 to December 2011)_
+- Sales Assistant, children's shoe department
+- valuing customer service over commission and my ability to remain calm in the face of 10 screaming children a day was the reason I had so many repeat customers
 
 ## Education
 
@@ -73,7 +66,7 @@ OOP, SOLID, TDD, AGILE Methodologies
 * Interaction between environments mentioned above thanks to the use of frameworks such as Rails, AngularJS, Sinatra, Node and Flask.
 * For keeping control of hundreds of lines of code and folder structures, source version control using Git and Waffle.io
 
-###Technical Skills and Technologies
+<!-- ###Technical Skills and Technologies -->
 <!-- ---------------------------------
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
